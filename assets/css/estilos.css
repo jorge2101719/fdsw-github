@@ -12,7 +12,7 @@ body {
 }
 
 #Acerca-de-mi {
-  background-color: azure;
+  background-image: linear-gradient(cyan, green);
 }
 
 /* Mis trabajos */
