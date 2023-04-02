@@ -5,10 +5,14 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/fondo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+#Acerca-de-mi {
+  background-color: azure;
 }
 
 /* Mis trabajos */
@@ -18,6 +22,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+#Mis-trabajos {
+  background-image: linear-gradient(cyan, yellow, green);
 }
 
 /* Contacto */
@@ -32,7 +40,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
